@@ -53,3 +53,8 @@ div>a {
     transition: 0,5s;
     color: red;
 }
+
+h1 + p {
+    background-color: white;
+    font-style: italic;
+}
